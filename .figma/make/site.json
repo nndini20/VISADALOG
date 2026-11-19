@@ -1,0 +1,10 @@
+{
+  "description": "VISADALOG streamlines visa application tracking and management, helping users monitor status updates and deadlines efficiently in one platform.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
